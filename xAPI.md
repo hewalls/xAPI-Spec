@@ -6,7 +6,7 @@
 >Defense (Readiness) Advanced Distributed Learning (ADL) Initiative. Please 
 >send all feedback and inquiries to helpdesk@adlnet.gov  
 
-## Table of Contents
+## Table of Contents Updateated
 [1.0. Revision History](#revhistory)  
 [2.0. Role of the Experience API](#roleofxapi)  
   [2.1. ADL's Role in the Experience API](#adlrole)  
